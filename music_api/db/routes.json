@@ -1,0 +1,5 @@
+{
+    "/artists/:id/songs": "/songs?artistId=:id",
+    "/genre/:id/artists": "/artists?genreId=:id",
+    "/genre/:id/songs": "/songs?genreId=:id"
+}
